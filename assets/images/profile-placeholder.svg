@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 430" role="img" aria-labelledby="title desc">
+<title id="title">Profile image placeholder</title><desc id="desc">An abstract profile portrait featuring the initials DN</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9eae6"/><stop offset="1" stop-color="#aac6c1"/></linearGradient><linearGradient id="i" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#397377"/><stop offset="1" stop-color="#224c55"/></linearGradient><pattern id="dots" width="21" height="21" patternUnits="userSpaceOnUse"><circle cx="1.8" cy="1.8" r="1" fill="#f8fcf8" opacity=".55"/></pattern></defs>
+<rect width="390" height="430" fill="url(#g)"/><rect width="390" height="430" fill="url(#dots)"/>
+<circle cx="303" cy="103" r="103" fill="#d9b486" opacity=".46"/><circle cx="69" cy="360" r="144" fill="#7dada9" opacity=".36"/>
+<rect x="37" y="41" width="316" height="350" rx="155" fill="none" stroke="#f9fcfa" stroke-opacity=".58" stroke-width="1.5"/>
+<circle cx="195" cy="176" r="65" fill="url(#i)" opacity=".88"/><path d="M81 360c8-77 52-112 114-112s106 35 114 112v70H81Z" fill="url(#i)" opacity=".88"/>
+<circle cx="195" cy="190" r="79" fill="none" stroke="#f2fcf7" stroke-width="1.4" opacity=".7"/>
+<text x="195" y="394" fill="#fbfffb" text-anchor="middle" font-family="Georgia,serif" font-size="32" font-weight="400" letter-spacing="9">D N</text>
+</svg>
